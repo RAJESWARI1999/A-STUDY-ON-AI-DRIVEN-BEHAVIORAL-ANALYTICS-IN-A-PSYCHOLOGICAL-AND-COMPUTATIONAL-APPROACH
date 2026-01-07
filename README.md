@@ -1,4 +1,5 @@
-# AI-Driven Behavioral Analytics for Decision-Making in Business Organizations
+# A STUDY ON AI-DRIVEN BEHAVIORAL ANALYTICS FOR DECISION-MAKING IN BUSINESS ORGANIZATIONS: A PSYCHOLOGICAL AND COMPUTATIONAL APPROACH
+
 
 A study exploring how **AI-driven behavioral analytics** can enhance managerial decision-making by integrating psychological principles with computational techniques.
 
